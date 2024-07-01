@@ -40,12 +40,14 @@ python app.py
 3. Color masks are created for each target color.
 4. Contours in the masked images are detected, and objects are identified.
 5. When an object crosses a defined line, its color is classified, and the count is updated.
-6. The interface displays the count of detected objects for each color and the total count.
+6. The interface displays the count of detected objects for each color and the total count.![clrdetect](https://github.com/kbbora/Color_Detection/assets/170621354/09da9928-1065-4b03-a850-9bc638ea6d8a)
+
 ## Configuration
 By default, the following colors are detected: green, blue, red, yellow, orange, purple, and pink. Threshold settings for each color can be adjusted in the code.
 
 
 ## Contributing
 Contributions are welcome! If you have any suggestions for improvements or if you want to report a bug, please open an issue or submit a pull request.
+
 
 
